@@ -1,6 +1,6 @@
 # E-commerce Shopping Cart Application
 
-ecommerce-shopping-cart.netlify.app
+Site : https://ecommerce-shopping-cart.netlify.app/
 
 ## Demo
 
